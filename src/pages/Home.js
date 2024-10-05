@@ -13,9 +13,9 @@ export const Home = () => {
           <p>
             A software developer with a passion for learning and creating
           </p> 
-          <LinkedInIcon />
-          <EmailIcon />
-          <GitHubIcon />
+          <a href='https://www.linkedin.com/in/animesh-kumar-322719186/' target="_blank" rel="noopener noreferrer"><LinkedInIcon /></a>
+          <a href="mailto:animesh317kumar@gmail.com" target="_blank" rel="noopener noreferrer"><EmailIcon /></a>
+          <a href="https://github.com/Anime31" target="_blank" rel="noopener noreferrer"><GitHubIcon /></a>
         </div>
       </div>
       <div className="skills">
@@ -25,7 +25,7 @@ export const Home = () => {
         <ol className='list'>
           <li className='item'>
             <h2>Front-End</h2>
-            <span>ReactJS, HTML, CSS, MaterialUI</span>
+            <span>React, AntD, MaterialUI</span>
           </li>
           <li className='item'>
             <h2>Back-End</h2>
@@ -33,7 +33,7 @@ export const Home = () => {
           </li>
           <li className='item'>
             <h2>Languages</h2>
-            <span>Javascript, Java, C++, C, Python</span>
+            <span>Javascript, Java, C++, C</span>
           </li>
         </ol>
       </div>
