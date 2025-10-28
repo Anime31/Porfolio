@@ -12,4 +12,9 @@ export const projectList = [
         image: Proj3,
         skills: "ReactJS, NodeJS"
     },
+    {
+        name: "Chat Room",
+        // image: Proj3,
+        skills: "Javascript, HTML, CSS"
+    },
 ];
