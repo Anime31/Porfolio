@@ -12,7 +12,7 @@ export const Footer = () => {
             <XIcon />
             <LinkedInIcon />
         </div>
-        <p> &copy; 2024 Animesh Kumar</p>
+        <p> &copy; 2025 Animesh Kumar</p>
     </div>
   )
 }

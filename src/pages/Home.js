@@ -14,7 +14,7 @@ export const Home = () => {
             A software developer with a passion for learning and creating
           </p> 
           <a href='https://www.linkedin.com/in/animesh-kumar-322719186/' target="_blank" rel="noopener noreferrer"><LinkedInIcon /></a>
-          <a href="mailto:animesh317kumar@gmail.com" target="_blank" rel="noopener noreferrer"><EmailIcon /></a>
+          <a href="mailto:animesh3107kumar@gmail.com" target="_blank" rel="noopener noreferrer"><EmailIcon /></a>
           <a href="https://github.com/Anime31" target="_blank" rel="noopener noreferrer"><GitHubIcon /></a>
         </div>
       </div>

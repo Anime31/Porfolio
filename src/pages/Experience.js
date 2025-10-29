@@ -14,8 +14,8 @@ export const Experience = () => {
           iconStyle={{background: "#3e497a", color:"#fff"}}
           icon={<SchoolIcon />}
         >
-          <h3 className='vertical-timeline-element-title'>IIT ISM Dhanbad, Jharkhand</h3>
-          <p>BTech</p>
+          <h3 className='vertical-timeline-element-title'>IIT (ISM) Dhanbad, Jharkhand</h3>
+          <p>B.Tech</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement 
           className='vertical-timeline-element--work'
